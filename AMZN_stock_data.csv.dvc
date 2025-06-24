@@ -1,0 +1,5 @@
+outs:
+- md5: 0a6d89e0bdd73e02c04f112f4084b0b7
+  size: 805245
+  hash: md5
+  path: AMZN_stock_data.csv
